@@ -1,2 +1,3 @@
-# matrix
-projekt transformacja - czy na pewno?
+# matrix, poznaj reguły gry
+projekt transformacja - czy na pewno? :)
+Day 1!
